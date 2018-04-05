@@ -1,0 +1,100 @@
+[
+  {
+    "DocumentSpaceName": "Article",
+    "DataSourceName": "PubMedCentral",
+    "CollectionName": "PubMedCentral",
+    "IntegerID": 0,
+    "ByteID": 0
+  },
+  {
+    "DocumentSpaceName": "Article",
+    "DataSourceName": "Medline",
+    "CollectionName": "MedlineBaseline",
+    "IntegerID": 1,
+    "ByteID": 1
+  },
+  {
+    "DocumentSpaceName": "",
+    "DataSourceName": "",
+    "CollectionName": "MedlineUpdates",
+    "IntegerID": "",
+    "ByteID": ""
+  },
+  {
+    "DocumentSpaceName": "",
+    "DataSourceName": "",
+    "CollectionName": "MedlinePublisher",
+    "IntegerID": "",
+    "ByteID": ""
+  },
+  {
+    "DocumentSpaceName": "Article",
+    "DataSourceName": "OUPJournal",
+    "CollectionName": "OUPJournal",
+    "IntegerID": 2,
+    "ByteID": 2
+  },
+  {
+    "DocumentSpaceName": "Whitepaper",
+    "DataSourceName": "Whitepapers",
+    "CollectionName": "Whitepapers",
+    "IntegerID": 32,
+    "ByteID": 32
+  },
+  {
+    "DocumentSpaceName": "News",
+    "DataSourceName": "FierceNews",
+    "CollectionName": "FierceNews",
+    "IntegerID": 64,
+    "ByteID": 64
+  },
+  {
+    "DocumentSpaceName": "Ahrq",
+    "DataSourceName": "Ahrq",
+    "CollectionName": "Ahrq",
+    "IntegerID": 96,
+    "ByteID": 96
+  },
+  {
+    "DocumentSpaceName": "GrantApplication",
+    "DataSourceName": "RePorter",
+    "CollectionName": "ExPorter",
+    "IntegerID": 128,
+    "ByteID": -128
+  },
+  {
+    "DocumentSpaceName": "Toxline",
+    "DataSourceName": "ToxlineNtis",
+    "CollectionName": "ToxlineNtis",
+    "IntegerID": 160,
+    "ByteID": -96
+  },
+  {
+    "DocumentSpaceName": "Toxline",
+    "DataSourceName": "ToxlineRiskline",
+    "CollectionName": "ToxlineRiskline",
+    "IntegerID": 161,
+    "ByteID": -95
+  },
+  {
+    "DocumentSpaceName": "USPatents",
+    "DataSourceName": "USPatentsGrants",
+    "CollectionName": "USPatentsGrants",
+    "IntegerID": 192,
+    "ByteID": -64
+  },
+  {
+    "DocumentSpaceName": "USPatents",
+    "DataSourceName": "USPatentsApplications",
+    "CollectionName": "USPatentsApplications",
+    "IntegerID": 193,
+    "ByteID": -63
+  },
+  {
+    "DocumentSpaceName": "FactivaDNA",
+    "DataSourceName": "FactivaDNA",
+    "CollectionName": "FactivaDNA",
+    "IntegerID": 65,
+    "ByteID": 65
+  }
+]
