@@ -1,0 +1,62 @@
+[
+  {
+    "DocumentSpaceName": "Article",
+    "UftUidType": "PMC",
+    "IntegerID": 0,
+    "ByteID": 0
+  },
+  {
+    "DocumentSpaceName": "Article",
+    "UftUidType": "PMID",
+    "IntegerID": 1,
+    "ByteID": 1
+  },
+  {
+    "DocumentSpaceName": "Article",
+    "UftUidType": "DOI",
+    "IntegerID": 2,
+    "ByteID": 2
+  },
+  {
+    "DocumentSpaceName": "Whitepaper",
+    "UftUidType": "Whitepaper",
+    "IntegerID": 32,
+    "ByteID": 32
+  },
+  {
+    "DocumentSpaceName": "News",
+    "UftUidType": "FierceNews",
+    "IntegerID": 64,
+    "ByteID": 64
+  },
+  {
+    "DocumentSpaceName": "Ahrq",
+    "UftUidType": "Ahrq",
+    "IntegerID": 96,
+    "ByteID": 96
+  },
+  {
+    "DocumentSpaceName": "GrantApplication",
+    "UftUidType": "RePorter",
+    "IntegerID": 128,
+    "ByteID": -128
+  },
+  {
+    "DocumentSpaceName": "Toxline",
+    "UftUidType": "Toxline",
+    "IntegerID": 160,
+    "ByteID": -96
+  },
+  {
+    "DocumentSpaceName": "GrantApplication",
+    "UftUidType": "GrantNumRePorter",
+    "IntegerID": 129,
+    "ByteID": -127
+  },
+  {
+    "DocumentSpaceName": "USPatents",
+    "UftUidType": "USPatents",
+    "IntegerID": 192,
+    "ByteID": -64
+  }
+]
