@@ -18,9 +18,9 @@
     "datasourceId": ""
   },
   {
-    "DocumentSpaceName": "",
-    "DataSourceName": "",
-    "CollectionName": "MedlinePublisher",
+    "documentSpaceName": "",
+    "dataSourceName": "",
+    "collectionName": "MedlinePublisher",
     "datasourceId": ""
   },
   {
@@ -51,7 +51,7 @@
     "documentSpaceName": "GrantApplication",
     "dataSourceName": "RePorter",
     "collectionName": "ExPorter",
-    "IntegerID": 128
+    "datasourceId": 128
   },
   {
     "documentSpaceName": "Toxline",
