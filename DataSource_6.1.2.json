@@ -3,94 +3,84 @@
     "documentSpaceName": "Article",
     "dataSourceName": "PubMedCentral",
     "collectionName": "PubMedCentral",
-    "datasourceId": 0,
+    "datasourceId": 0
   },
   {
     "documentSpaceName": "Article",
     "dataSourceName": "Medline",
     "collectionName": "MedlineBaseline",
-    "datasourceId": 1,
+    "datasourceId": 1
   },
   {
     "documentSpaceName": "",
     "dataSourceName": "",
     "collectionName": "MedlineUpdates",
-    "datasourceId": "",
+    "datasourceId": ""
   },
   {
     "DocumentSpaceName": "",
     "DataSourceName": "",
     "CollectionName": "MedlinePublisher",
-    "IntegerID": "",
+    "datasourceId": ""
   },
   {
-    "DocumentSpaceName": "Article",
-    "DataSourceName": "OUPJournal",
-    "CollectionName": "OUPJournal",
-    "IntegerID": 2,
-    "ByteID": 2
+    "documentSpaceName": "Article",
+    "dataSourceName": "OUPJournal",
+    "collectionName": "OUPJournal",
+    "datasourceId": 2
   },
   {
-    "DocumentSpaceName": "Whitepaper",
-    "DataSourceName": "Whitepapers",
-    "CollectionName": "Whitepapers",
-    "IntegerID": 32,
-    "ByteID": 32
+    "documentSpaceName": "Whitepaper",
+    "dataSourceName": "Whitepapers",
+    "collectionName": "Whitepapers",
+    "datasourceId": 32
   },
   {
-    "DocumentSpaceName": "News",
-    "DataSourceName": "FierceNews",
-    "CollectionName": "FierceNews",
-    "IntegerID": 64,
-    "ByteID": 64
+    "documentSpaceName": "News",
+    "dataSourceName": "FierceNews",
+    "collectionName": "FierceNews",
+    "datasourceId": 64
   },
   {
-    "DocumentSpaceName": "Ahrq",
-    "DataSourceName": "Ahrq",
-    "CollectionName": "Ahrq",
-    "IntegerID": 96,
-    "ByteID": 96
+    "documentSpaceName": "Ahrq",
+    "dataSourceName": "Ahrq",
+    "collectionName": "Ahrq",
+    "datasourceId": 96
   },
   {
-    "DocumentSpaceName": "GrantApplication",
-    "DataSourceName": "RePorter",
-    "CollectionName": "ExPorter",
-    "IntegerID": 128,
-    "ByteID": -128
+    "documentSpaceName": "GrantApplication",
+    "dataSourceName": "RePorter",
+    "collectionName": "ExPorter",
+    "IntegerID": 128
   },
   {
-    "DocumentSpaceName": "Toxline",
-    "DataSourceName": "ToxlineNtis",
-    "CollectionName": "ToxlineNtis",
-    "IntegerID": 160,
-    "ByteID": -96
+    "documentSpaceName": "Toxline",
+    "dataSourceName": "ToxlineNtis",
+    "collectionName": "ToxlineNtis",
+    "datasourceId": 160
   },
   {
-    "DocumentSpaceName": "Toxline",
-    "DataSourceName": "ToxlineRiskline",
-    "CollectionName": "ToxlineRiskline",
-    "IntegerID": 161,
-    "ByteID": -95
+    "documentSpaceName": "Toxline",
+    "dataSourceName": "ToxlineRiskline",
+    "collectionName": "ToxlineRiskline",
+    "datasourceId": 161
   },
   {
-    "DocumentSpaceName": "USPatents",
-    "DataSourceName": "USPatentsGrants",
-    "CollectionName": "USPatentsGrants",
-    "IntegerID": 192,
-    "ByteID": -64
+    "documentSpaceName": "USPatents",
+    "dataSourceName": "USPatentsGrants",
+    "collectionName": "USPatentsGrants",
+    "datasourceId": 192
   },
   {
-    "DocumentSpaceName": "USPatents",
-    "DataSourceName": "USPatentsApplications",
-    "CollectionName": "USPatentsApplications",
-    "IntegerID": 193,
-    "ByteID": -63
+    "documentSpaceName": "USPatents",
+    "dataSourceName": "USPatentsApplications",
+    "collectionName": "USPatentsApplications",
+    "datasourceId": 193
   },
   {
-    "DocumentSpaceName": "FactivaDNA",
-    "DataSourceName": "FactivaDNA",
-    "CollectionName": "FactivaDNA",
-    "IntegerID": 65,
-    "ByteID": 65
+    "documentSpaceName": "FactivaDNA",
+    "dataSourceName": "FactivaDNA",
+    "collectionName": "FactivaDNA",
+    "datasourceId": 65
   }
 ]
