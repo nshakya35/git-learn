@@ -4,28 +4,24 @@
     "dataSourceName": "PubMedCentral",
     "collectionName": "PubMedCentral",
     "datasourceId": 0,
-    "uidTypeId":0,
   },
   {
-    "DocumentSpaceName": "Article",
-    "DataSourceName": "Medline",
-    "CollectionName": "MedlineBaseline",
-    "IntegerID": 1,
-    "ByteID": 1
+    "documentSpaceName": "Article",
+    "dataSourceName": "Medline",
+    "collectionName": "MedlineBaseline",
+    "datasourceId": 1,
   },
   {
-    "DocumentSpaceName": "",
-    "DataSourceName": "",
-    "CollectionName": "MedlineUpdates",
-    "IntegerID": "",
-    "ByteID": ""
+    "documentSpaceName": "",
+    "dataSourceName": "",
+    "collectionName": "MedlineUpdates",
+    "datasourceId": "",
   },
   {
     "DocumentSpaceName": "",
     "DataSourceName": "",
     "CollectionName": "MedlinePublisher",
     "IntegerID": "",
-    "ByteID": ""
   },
   {
     "DocumentSpaceName": "Article",
