@@ -1,10 +1,10 @@
 [
   {
-    "DocumentSpaceName": "Article",
-    "DataSourceName": "PubMedCentral",
-    "CollectionName": "PubMedCentral",
-    "IntegerID": 0,
-    "ByteID": 0
+    "documentSpaceName": "Article",
+    "dataSourceName": "PubMedCentral",
+    "collectionName": "PubMedCentral",
+    "datasourceId": 0,
+    "uidTypeId":0,
   },
   {
     "DocumentSpaceName": "Article",
